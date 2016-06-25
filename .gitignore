@@ -1,0 +1,12 @@
+*pyc
+__pycache__
+venv
+db.sqlite3
+doc
+/src/main/scraper
+/src/main/frontend/venv
+/src/main/frontend/search/scraper
+/src/main/frontend/db.sqlite3
+/src/main/frontend/.scrapecache
+/src/main/frontend/google_scraper.db
+
